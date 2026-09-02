@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "424590411878",
+    "project_id": "flutter-88938",
+    "storage_bucket": "flutter-88938.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424590411878:android:630f61e783980f5ae945a7",
+        "android_client_info": {
+          "package_name": "com.example.movie_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC9Ui6Y5RFWuYuE7IViXyGxLjYJvB1fBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
